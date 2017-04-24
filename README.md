@@ -16,3 +16,8 @@ thanks
 
 If you feel uncomfortable running our code or don't want to install the Python2.7 interpreter, we have the basic command-line version hosted on trinket.io here too: https://trinket.io/library/trinkets/44555ad1b3 although that get updated much less often and it is better to refer to the accompanying README present there and not this one.
 
+TO-
+ - ~actually code it~
+ - make things break less - ongoing in the branch mtbl-wip
+ - make answers more accurate 
+ - functions
