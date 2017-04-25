@@ -20,7 +20,7 @@ time.sleep(1.5)
 print ("enjoy")
 time.sleep(1.5)
 print ("-- -- -- --")
-time.sleep(1.5)
+time.sleep(1.5) #git test
 religionfree = raw_input("Are your people free to follow their ideals? [y/n] : ")
 if religionfree == y:
         govcontrol = raw_input("Does the government have totalitarian-esque control over the people? [y/n] : ")
