@@ -14,10 +14,11 @@ Also, if you encounter a bug or something that seems out of place and you want t
 thanks
 ~ a few teenagers from Vancouver
 
-If you feel uncomfortable running our code or don't want to install the Python2.7 interpreter, we have the basic command-line version hosted on trinket.io here too: https://trinket.io/library/trinkets/44555ad1b3 although that get updated much less often and it is better to refer to the accompanying README present there and not this one.
+If you feel uncomfortable running our code or don't want to install the Python2.7 interpreter, we have the basic command-line version hosted on trinket.io here too: https://trinket.io/library/trinkets/44555ad1b3 although that get updated much less often and it is better to refer to the accompanying README present there on what the issues things to avoid are and not this one.
 
 TO-DO
  - ~actually code it~
  - make things  less *ongoing in the branch mtbl-wip*
  - make answers more accurate 
- - functions
+ - turn it in
+ - functions?
