@@ -44,42 +44,42 @@ while True:
                         break
                         while True:
                             econstatus = raw_input("Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws? [y/n] : ")
-                        if econstatus == y:
-                            break
-                            while True:
-                                outsidesupp = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
-                                if outsidesupp == y:
-                                    break
-                                    while True:
-                                        suppreceive = raw_input("Are the rebels or the government recieving the support? [r/g] : ")
-                                        if suppreceive == r:
-                                            print ("Viva de la Revolucion!")
-                                            break
-                                        elif suppreceive == g:
-                                            break
-                                            while True:
-                                                oppose = raw_input("Are there people opposing the government / current power? [y/n] : ")
-                                                if oppose == y:
-                                                    print ("A possible civil war. Stockpile.")
-                                                    break
-                                                elif oppose == n:
-                                                    print "[that's not what I asked you]"
-                                                    break
-                                                else:
-                                                    print "[that's not what I asked you]"
-                                                    continue
-                                        else:
-                                            print "[that's not what I asked you]"
-                                            continue
-                                else:
-                                    print "[that's not what I asked you]"
-                                    continue
-                        else:
-                            print "[that's not what I asked you]"
-                            continue
-                else:
-                    print "[that's not what I asked you]"
-                    continue
+                            if econstatus == y:
+                                break
+                                while True:
+                                    outsidesupp = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
+                                    if outsidesupp == y:
+                                        break
+                                        while True:
+                                            suppreceive = raw_input("Are the rebels or the government recieving the support? [r/g] : ")
+                                            if suppreceive == r:
+                                                print ("Viva de la Revolucion!")
+                                                break
+                                            elif suppreceive == g:
+                                                break
+                                                while True:
+                                                    oppose = raw_input("Are there people opposing the government / current power? [y/n] : ")
+                                                    if oppose == y:
+                                                        print ("A possible civil war. Stockpile.")
+                                                        break
+                                                    elif oppose == n:
+                                                        print "[that's not what I asked you]"
+                                                        break
+                                                    else:
+                                                        print "[that's not what I asked you]"
+                                                        continue
+                                            else:
+                                                print "[that's not what I asked you]"
+                                                continue
+                                    else:
+                                        print "[that's not what I asked you]"
+                                        continue
+                            else:
+                                print "[that's not what I asked you]"
+                                continue
+                    else:
+                        print "[that's not what I asked you]"
+                        continue
             elif govcontrol == n:
                 while True:
                     needsrespond = raw_input("Is the government responding to the needs of a sufficient portion of the people? [y/n] : ")
