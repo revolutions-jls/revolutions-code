@@ -1,18 +1,5 @@
 import time
-y = "y"
-n = "n"
-g = "g"
-r = "r"
-govcontrol = 7
-outsidesupp = 7
-religionfree = 7
-oppose = 7
-econstatus = 7
-suppreceive = 7
-# sean is garbage at coding
-# eat it sean
-gbfwycfd = "Go back from whence you came, foul Demon!"
-safety = "You are doing okay. No revolution here."
+
 print ("the")
 time.sleep(1)
 print ("revolutionary")
@@ -27,6 +14,37 @@ print ("enjoy")
 time.sleep(1)
 print ("-- -- -- --")
 time.sleep(1) #git test
+
+#sean is garbage at coding
+# eat it sean
+gbfwycfd = "Go back from whence you came, foul Demon!"
+safety = "You are doing okay. No revolution here."
+
+
+
+y = "y" or "Y"
+n = "n" or "N"
+g = "g" or "G"
+r = "r" or "R"
+
+rf = 0
+gc = 0
+nr = 0
+es = 0
+os = 0
+sr = 0
+
+
+
+def religionfree():
+    rf = raw_input("Are your people free to follow their ideals? [y/n] : ")
+        if rf == y:
+            rf = rf + 1
+        elif rf == n:
+            rf = rf
+
+
+
 while True:
     religionfree = raw_input("Are your people free to follow their ideals? [y/n] : ")
     if religionfree == y:
