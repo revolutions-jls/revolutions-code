@@ -1,5 +1,5 @@
 import time
-
+import funcland
 y = "y"
 n = "n"
 g = "g"
