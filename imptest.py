@@ -1,14 +1,27 @@
-import rev
+import rev as r
 
-if rev.religionfree():
-    if rev.govcontrol():
-        if rev.needsrespond():
-            if rev.econstatus():
-                if rev.outsidesupp():
+if r.religionfree():
+    if r.govcontrol():
+        if r.needsrespond():
+            if r.econstatus():
+                if r.outsidesupp():
+                    print "cool"
+                else:
+                    p
+            else:
+                if r.outsidesupp():
+                else:
+        else:
+    else:
+else:
+    if r.govcontrol():
+        if r.needsrespond():
+            if r.econstatus():
+                if r.outsidesupp():
                 else:
             else:
         else:
     else:
-else:
+
 
 else:
