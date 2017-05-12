@@ -6,7 +6,7 @@ def religionfree():
         elif answer == "n":
             return False
         else:
-            print "i'm not sure what you meant by that"
+            print "[i'm not sure what you meant by that]"
             continue
 
 def govcontrol():
@@ -17,7 +17,7 @@ def govcontrol():
         elif answer == "n":
             return False
         else:
-            print "i'm not sure what you meant by that"
+            print "[i'm not sure what you meant by that]"
             continue
 #tacobucks
 def needsrespond():
@@ -28,7 +28,7 @@ def needsrespond():
         elif answer == "n":
             return False
         else:
-            print "i'm not sure what you meant by that"
+            print "[i'm not sure what you meant by that]"
             continue
 
 def econstatus():
@@ -43,6 +43,28 @@ def econstatus():
             continue
 
 def outsidesupp():
+    while True:
+        answer = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
+        if answer == "y":
+            return True
+        elif answer == "n":
+            return False
+        else:
+            print "[i'm not sure what you meant by that]"
+            continue
+
+def supprecieve():
+    while True:
+        answer = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
+        if answer == "y":
+            return True
+        elif answer == "n":
+            return False
+        else:
+            print "[i'm not sure what you meant by that]"
+            continue
+
+def oppose():
     while True:
         answer = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
         if answer == "y":
