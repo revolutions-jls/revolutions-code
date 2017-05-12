@@ -1,7 +1,9 @@
 import rev as r
 import time
-# sean is garbage at coding
-# eat it sean
+#im using rocket mentality for this testing
+#cause you can't really test a rocket before firing
+#so i think this works
+#but i dont want to fire it for fear it doesn't
 print ("the")
 time.sleep(1.5)
 print ("revolutionary")
@@ -400,4 +402,3 @@ else:
                             print "cool"
                         else:
                             print "cool"
-
