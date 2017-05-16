@@ -210,7 +210,7 @@ if r.religionfree():
                         if r.oppose():
                             print "cool"
                         else:
-                            print "cool"
+                            print "cool" #git meme
 else:
     if r.govcontrol():
         if r.needsrespond():
