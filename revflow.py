@@ -1,8 +1,8 @@
 #using the command line with git feels kinda hipster
 import rev as r
 import time
-#im using rocket mentality for this testing
-#Cause you can't really test a rocket before firing
+#i'm using rocket mentality for this testing
+#cause you can't really test a rocket before firing
 #so i think this works
 #but i dont want to fire it for fear it doesn't
 intro = raw_input("intro? [y/n]")
