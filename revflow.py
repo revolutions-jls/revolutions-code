@@ -1,3 +1,4 @@
+#using the command line with git feels kinda hipster
 import rev as r
 import time
 #im using rocket mentality for this testing
