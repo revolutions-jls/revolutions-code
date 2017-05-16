@@ -5,7 +5,7 @@ import time
 #cause you can't really test a rocket before firing
 #so i think this works
 #but i dont want to fire it for fear it doesn't
-intro = raw_input("intro? [y/n]")
+intro = raw_input("intro? [y/n] : ")
 if intro == "y":
     print ("the")
     time.sleep(1.5)
