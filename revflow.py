@@ -1,4 +1,5 @@
 #using the command line with git feels kinda hipster
+#pls ignore supergit.bat
 import rev as r
 import time
 #i'm using rocket mentality for this testing
