@@ -1,4 +1,4 @@
-#coded by j. salmon (mostly)
+#coded by j. salmon (mostly, sean did things too)
 import rev as r
 import time
 #i'm using rocket mentality for this testing
