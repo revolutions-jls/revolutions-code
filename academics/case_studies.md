@@ -90,11 +90,13 @@ The Cuban Revolution
         unemployment rates and limited water infrastructure on a sea-locked country.
 
     Can either party [either the rebels or the government] procure outside support?
+
         Yes, Batista was able to get support from the US. When he was elected, he
         represented the Communist Party, but in his second term, rapidly turned
         anti-communist, allowing the US' support. However, it was not enough.
 
     Are there people actively opposing the power?
+    
         Well, yes. There was Fidel Castro and his brother Raul, who together started
         "The Movement" that led to the overthrow of Batista.
 
