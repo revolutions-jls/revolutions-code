@@ -41,3 +41,224 @@ if r.religionfree():
                             print (placeholder)
                 else:
                     print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+        else:
+            if r.econstatus():
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+    else:
+        if r.needsrespond():
+            if r.econstatus():
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+        else:
+            if r.econstatus():
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+else:
+    if r.govcontrol():
+        if r.needsrespond():
+            if r.econstatus():
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+        else:
+            if r.econstatus():
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+    else:
+        if r.needsrespond():
+            if r.econstatus():
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+        else:
+            if r.econstatus():
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine
+            else:
+                if r.oppose():
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                else:
+                    print (placeholder) #im making an ending here because if no one opposes the power, you're probably fine                        
