@@ -6,7 +6,7 @@ To actually prove that this is correct, we realized we had to do several, small 
 
 ---
 
-Also, here are the questions, as they are in the code.
+Also, here are the questions, as they are presented.
 
     Are the people free to follow their ideals?
 
@@ -96,7 +96,7 @@ The Cuban Revolution
         anti-communist, allowing the US' support. However, it was not enough.
 
     Are there people actively opposing the power?
-    
+
         Well, yes. There was Fidel Castro and his brother Raul, who together started
         "The Movement" that led to the overthrow of Batista.
 
