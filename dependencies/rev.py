@@ -1,12 +1,15 @@
+#these functions are largely quite repetitive
+#but we use them to keep the code in revflow.py a little less...
+#catastrophic?
 def religionfree():
     while True:
         answer = raw_input("Are your people free to follow their ideals? [y/n] : ")
         if answer == "y":
-            return True
-        elif answer == "n":
             return False
+        elif answer == "n":
+            return True
         else:
-            print "[i'm not sure what you meant by that]"
+            print ("[i'm not sure what you meant by that]")
             continue
 
 def govcontrol():
@@ -17,18 +20,18 @@ def govcontrol():
         elif answer == "n":
             return False
         else:
-            print "[i'm not sure what you meant by that]"
+            print ("[i'm not sure what you meant by that]")
             continue
 #tacobucks
 def needsrespond():
     while True:
         answer = raw_input("Is the government responding to the needs of a sufficient portion of the people? [y/n] : ")
         if answer == "y":
-            return True
-        elif answer == "n":
             return False
+        elif answer == "n":
+            return True
         else:
-            print "[i'm not sure what you meant by that]"
+            print ("[i'm not sure what you meant by that]")
             continue
 
 def econstatus():
@@ -39,7 +42,7 @@ def econstatus():
         elif answer == "n":
             return False
         else:
-            print "[i'm not sure what you meant by that]"
+            print ("[i'm not sure what you meant by that]")
             continue
 
 def outsidesupp():
@@ -50,34 +53,27 @@ def outsidesupp():
         elif answer == "n":
             return False
         else:
-            print "[i'm not sure what you meant by that]"
+            print ("[i'm not sure what you meant by that]")
             continue
 
 def supprecieve():
     while True:
-        answer = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
-        if answer == "y":
+        answer = raw_input("Which party is receiving the support, the rebels or the government?  [r/g] : ")
+        if answer == "r":
             return True
-        elif answer == "n":
+        elif answer == "g":
             return False
         else:
-            print "[i'm not sure what you meant by that]"
+            print ("[i'm not sure what you meant by that]")
             continue
 
 def oppose():
     while True:
-        answer = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
+        answer = raw_input("Are there people who oppose the power? [y/n] : ")
         if answer == "y":
             return True
         elif answer == "n":
             return False
         else:
-            print "[i'm not sure what you meant by that]"
+            print ("[i'm not sure what you meant by that]")
             continue
-
-
-
-
-
-
-

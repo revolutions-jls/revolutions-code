@@ -5,8 +5,6 @@ Hi.
 
 This is a program made by a few teenagers to aid you in determining exactly how close or far you are to a Revolution. It works asking you a series of Yes or No questions, and takes input in the form of a Y or an N, corresponding to Yes or No respectively.
 
-However, the program WILL BREAK as of 4/19/17 if you tell it anything else. There is a way to fix that (quite easily, to be entirely honest) but it is extremely time consuming and this is more of a proof of concept right now than anything else.
-
 We hope you enjoy it.
 
 Also, if you encounter a bug or something that seems out of place and you want to help this idea grow, the best thing to do is just to let us know. We would love to make it better.
