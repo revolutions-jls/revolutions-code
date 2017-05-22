@@ -7,11 +7,17 @@ To actually prove that this is correct, we realized we had to do several, small 
 ---
 
 Also, here are the questions, as they are in the code.
+
     Are the people free to follow their ideals?
+
     Does the government have totalitarian-esque control over the people?
+
     Is the government responding to the needs of a sufficient portion of the people?
+
     Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+
     Can either party [either the rebels or the government] procure outside support?
+
     Are there people actively opposing the power?
 
 ---
@@ -22,11 +28,11 @@ The format of these case studies will be rather minimal as mentioned before, and
 
 # The Case Studies Themselves
 
-Sean Hong
+*Sean Hong*
 
 
 
-Joe Salmon
+*Joe Salmon*
 
 
 
@@ -67,8 +73,32 @@ The Fall of the Ming Dynasty (1644)
 
 The Cuban Revolution
 
+    Are the people free to follow their ideals?
+
+    Does the government have totalitarian-esque control over the people?
+
+    Is the government responding to the needs of a sufficient portion of the people?
+
+        Not at all. Pre-revolution president Batista ended up acting as more of a
+        dictator than an actual president, and showed complete indifference to the
+        cries of the people.
+
+    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+
+        It was a mess. Batista was tied to organized crime and allowed American
+        companies to dominate Cuba's economy, along with the presence of high
+        unemployment rates and limited water infrastructure on a sea-locked country.
+
+    Can either party [either the rebels or the government] procure outside support?
+        Yes, Batista was able to get support from the US. When he was elected, he
+        represented the Communist Party, but in his second term, rapidly turned
+        anti-communist, allowing the US' support. However, it was not enough.
+
+    Are there people actively opposing the power?
+        Well, yes. There was Fidel Castro and his brother Raul, who together started
+        "The Movement" that led to the overthrow of Batista.
 
 
 
 
-Luke Dunn
+*Luke Dunn*
