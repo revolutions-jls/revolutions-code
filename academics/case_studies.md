@@ -27,7 +27,11 @@ Sean Hong
 
 
 Joe Salmon
-    The Fall of the Ming Dynasty (1644)
+
+
+
+The Fall of the Ming Dynasty (1644)
+
     Are the people free to follow their ideals?
 
     Does the government have totalitarian-esque control over the people?
@@ -36,7 +40,8 @@ Joe Salmon
 
         No, not at all. There was actually a massive famine leading up to the fall.
 
-    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+    Is the economy failing or on a very apparent downturn? Are there high taxes
+    or unfair labor laws?
 
         Yes. This was actually a very key factor in the fall of the Dynasty.
 
@@ -46,18 +51,24 @@ Joe Salmon
 
     Can either party [either the rebels or the government] procure outside support?
 
-        The old government can and did, and this is where it gets tricky, because even though they were able to garner support, the Manchus, who aided them, only agreed to work with them if they could hold the power at the end, still leading to the fall of the Dynasty.
+        The old government can and did, and this is where it gets tricky, because
+        even though they were able to garner support, the Manchus, who aided them,
+        only agreed to work with them if they could hold the power at the end, still
+        leading to the fall of the Dynasty.
 
 
 
-    The Ming Dynasty fell due to a peasant rebellion, started by a man named Li Zicheng who formed a coup, so to speak and took over the government by force. This made the old government extremely unhappy and they needed a way to usurp him, so they asked one of their mortal enemies for help, the Manchus. The Manchus, however, wanted the power when Li Zicheng went down, and the old Ming agreed, dooming themselves.
+    The Ming Dynasty fell due to a peasant rebellion, started by a man named Li
+    Zicheng who formed a coup, so to speak and took over the government by force.
+    This made the old government extremely unhappy and they needed a way to usurp
+    him, so they asked one of their mortal enemies for help, the Manchus. The
+    Manchus, however, wanted the power when Li Zicheng went down, and the old Ming
+    agreed, dooming themselves.
 
-    The Cuban Revolution
+The Cuban Revolution
 
 
 
 
 
 Luke Dunn
-
- 
