@@ -1,5 +1,5 @@
 #coded by j. salmon (mostly, sean did things too)
-import dependencies\rev as r
+from dependencies import rev as r
 import time
 #i'm using rocket mentality for this testing
 #cause you can't really test a rocket before firing
@@ -30,190 +30,190 @@ if r.religionfree():
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
         else:
             if r.econstatus():
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
     else:
         if r.needsrespond():
             if r.econstatus():
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
         else:
             if r.econstatus():
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool" #git meme
+                            print ("cool") #git meme
 else:
     if r.govcontrol():
         if r.needsrespond():
@@ -221,187 +221,187 @@ else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
         else:
             if r.econstatus():
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
     else:
         if r.needsrespond():
             if r.econstatus():
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
         else:
             if r.econstatus():
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
             else:
                 if r.outsidesupp():
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                 else:
                     if r.supprecieve():
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
                     else:
                         if r.oppose():
-                            print "cool"
+                            print ("cool")
                         else:
-                            print "cool"
+                            print ("cool")
