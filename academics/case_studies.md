@@ -6,7 +6,7 @@ To actually prove that this is correct, we realized we had to do several, small 
 
 ---
 
-Also, here are the questions, as they are presented.
+Here are the questions, as they are presented.
 
     Are the people free to follow their ideals?
 
@@ -41,6 +41,8 @@ The Fall of the Ming Dynasty (1644)
     Are the people free to follow their ideals?
 
     Does the government have totalitarian-esque control over the people?
+
+        Not
 
     Is the government responding to the needs of a sufficient portion of the people?
 
