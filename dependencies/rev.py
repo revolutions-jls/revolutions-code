@@ -59,9 +59,9 @@ def outsidesupp():
 def supprecieve():
     while True:
         answer = raw_input("Which party is receiving the support, the rebels or the government?  [r/g] : ")
-        if answer == "r":
+        if answer == "g":
             return True
-        elif answer == "g":
+        elif answer == "r":
             return False
         else:
             print ("[i'm not sure what you meant by that]")
