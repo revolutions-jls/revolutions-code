@@ -40,7 +40,16 @@ if r.oppose():
                         else:
                             print (placeholder)
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -54,7 +63,16 @@ if r.oppose():
                         else:
                             print (placeholder)
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
         else:
             if r.econstatus():
                 if r.religionfree():
@@ -69,7 +87,16 @@ if r.oppose():
                         else:
                             print (placeholder)
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -99,7 +126,16 @@ if r.oppose():
                         else:
                             print (placeholder)
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -113,7 +149,16 @@ if r.oppose():
                         else:
                             print (placeholder)
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
         else:
             if r.econstatus():
                 if r.religionfree():
@@ -128,7 +173,16 @@ if r.oppose():
                         else:
                             print (placeholder)
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -142,6 +196,15 @@ if r.oppose():
                         else:
                             print (placeholder)
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    if r.outsidesupp():
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
+                    else:
+                        if r.supprecieve():
+                            print (placeholder)
+                        else:
+                            print (placeholder)
 else:
     print ("You're probably fine for now. If no one's trying to take you out, chances are it won't happen.")

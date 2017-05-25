@@ -78,6 +78,7 @@ The Cuban Revolution
     Are the people free to follow their ideals?
 
 
+
     Does the government have totalitarian-esque control over the people?
 
         Not really. Not only were the people free to do things, the emperor also did not control absolute power.
