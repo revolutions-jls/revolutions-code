@@ -40,9 +40,11 @@ The Fall of the Ming Dynasty (1644)
 
     Are the people free to follow their ideals?
 
+        Yes. For the most part, people were allowed to believe what they wanted to.
+
     Does the government have totalitarian-esque control over the people?
 
-        Not
+        Not really. People were free to do as they choose and the emperor did not hold absplute power.
 
     Is the government responding to the needs of a sufficient portion of the people?
 
@@ -77,7 +79,10 @@ The Cuban Revolution
 
     Are the people free to follow their ideals?
 
+
     Does the government have totalitarian-esque control over the people?
+
+        Not really. Not only were the people free to do things, the emperor also did not control absolute power.
 
     Is the government responding to the needs of a sufficient portion of the people?
 
