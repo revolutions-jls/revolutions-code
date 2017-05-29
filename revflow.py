@@ -5,6 +5,11 @@ import time
 #cause you can't really test a rocket before firing
 #so i think this works
 #but i dont want to fire it for fear it doesn't t_t
+
+#update 5/29/17
+#so i tested it and found a lot of bugs
+#serves me right i suppose?
+#   -joe
 placeholder = "Go back from whence you came, foul Demon!" #print (placeholder)
 intro = raw_input("intro? [y/n] : ")
 if intro == "y":
