@@ -35,10 +35,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -46,10 +43,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -58,10 +52,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -69,10 +60,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
         else:
             if r.econstatus():
                 if r.religionfree():
@@ -82,10 +70,8 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
+
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -93,10 +79,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -105,10 +88,7 @@ if r.oppose():
                         else:
                             print ("You're done for. Bad economy, no care for the people and a significant number of people against you with outside support backing them."
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print ("I would be careful if I were you. The possibility for a massave revolt is very low, but that can change very quickly if the rebels get enough support.")
                 else:
                     print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
     else:
@@ -121,10 +101,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -132,10 +109,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -144,10 +118,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -155,10 +126,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
         else:
             if r.econstatus():
                 if r.religionfree():
@@ -168,10 +136,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -179,10 +144,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -191,10 +153,7 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -202,9 +161,6 @@ if r.oppose():
                         else:
                             print (placeholder)
                     else:
-                        if r.supprecieve():
-                            print (placeholder)
-                        else:
-                            print (placeholder)
+                        print (placeholder)
 else:
     print ("You're probably fine for now. If no one's trying to take you out, chances are it won't happen.")
