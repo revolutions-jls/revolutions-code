@@ -1,11 +1,6 @@
 #coded by j. salmon as walmart-givenchii
 from dependencies import rev as r
 import time
-#i'm using rocket mentality for testing this
-#cause you can't really test a rocket before firing
-#so i think this works
-#but i dont want to fire it for fear it doesn't t_t
-
 #update 5/29/17
 #so i tested it and found a lot of bugs
 #serves me right i suppose?
