@@ -5,7 +5,8 @@ import time
 #so i tested it and found a lot of bugs
 #serves me right i suppose?
 #   -joe
-placeholder = "Go back from whence you came, foul Demon!" #print (placeholder)
+placeholder = "[CRIME SCENE - DO NOT CROSS WHITE TEXT LINE - CODERS ONLY - CRIME SCENE]" 
+#print (placeholder)
 intro = raw_input("intro? [y/n] : ")
 if intro == "y":
     print ("the")
