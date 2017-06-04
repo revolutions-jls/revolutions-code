@@ -20,9 +20,7 @@ Here are the questions, as they are presented.
 
     Are there people actively opposing the power?
 
----
-
- Out of our group of three people, we've each taken two case studies, with the exception of Sean Hong, who's just doing the French Revolution, because it's quite a complex one. Joe Salmon has taken the fall of the Ming Dynasty and the Cuban Revolution, and Luke Dunn is shouldering the Syrian Civil War and the English Revolution of the 1600s.
+---t
 
 The format of these case studies will be rather minimal as mentioned before, and will mainly consist of our key questions being answered and those answers being explained, with possibly a few notes at the end depending.
 
@@ -106,7 +104,29 @@ The Cuban Revolution
         Well, yes. There was Fidel Castro and his brother Raul, who together started
         "The Movement" that led to the overthrow of Batista.
 
-
-
-
 *Luke Dunn*
+
+The English Revolution
+
+    Are the people free to follow their ideals?
+
+        No, King Charles I (the ruling monarch) is imposing a new Prayer Book on Scotland (which he also rules) and he punished those who refused to accept it.
+
+    Does the government have totalitarian-esque control over the people?
+
+        Yes, at this time England was a monarchy, and The King believed that he ruled with divine right.
+
+    Is the government responding to the needs of a sufficient portion of the people?
+
+        Not Sure
+
+    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+    
+        Yes, the king is imposing high taxes (Called Forced Loan) to fund his wars with Spain and France.
+
+    Can either party [either the rebels or the government] procure outside support?
+
+        Yes, (For this sake we will call parliament the rebels and the king the government) the rebels procure the support of Scotland.
+
+    Are there people actively opposing the power?
+    Yes, parliament opposed the crown which was the "power" at that time.
