@@ -114,14 +114,14 @@ The English Revolution
 
     Does the government have totalitarian-esque control over the people?
 
-        Yes, at this time England was a monarchy, and The King believed that he ruled with divine right.
+        No, since people were mostly free to do what they pleased as long as it was not against the law.
 
     Is the government responding to the needs of a sufficient portion of the people?
 
         Not Sure
 
     Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
-    
+
         Yes, the king is imposing high taxes (Called Forced Loan) to fund his wars with Spain and France.
 
     Can either party [either the rebels or the government] procure outside support?
@@ -129,4 +129,5 @@ The English Revolution
         Yes, (For this sake we will call parliament the rebels and the king the government) the rebels procure the support of Scotland.
 
     Are there people actively opposing the power?
-    Yes, parliament opposed the crown which was the "power" at that time.
+
+        Yes, parliament opposed the crown which was the "power" at that time.
