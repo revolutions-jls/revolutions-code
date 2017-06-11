@@ -32,36 +32,36 @@ if r.oppose():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already.")
                         else:
-                            print (placeholder)
+                            print ("Even though you may have been able to procure some amount of outside support, chances are it won't be enough. You've done pretty much everything wrong, and it would be very unlikely for a revolution to not occur.")
                     else:
-                        print (placeholder)
+                        print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. ")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("'Welcome to Haiti. Let me show you our slaves. We're very proud of them. Oh, crap! They've gone and overthrown the government with the help of the Spanish!' Let me phrase this dramatically: 'Oh, how the tables have turned!' That's right, ladies and gentlemen, you've got a revolution.")
                         else:
-                            print (placeholder)
+                            print ("You're in a tight spot. A really, really tight spot. In fact, the only thing keeping you from a revolution right now are whoever decided to lend your lucky self a hand. Be very, very careful and don't give anyone any more reasons than they already have to mess you up.")
                     else:
-                        print (placeholder)
+                        print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. ")
             else:
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("Sorry, friend. I think chances are you've got a revolution on your hands. You've dont nearly everything wrong and the rebels have found someone willing to back them up. But hey, at least your country isn't broke, right! That would really suck.")
                         else:
-                            print (placeholder)
+                            print ("So you can get some support, and your economy and labor situation isn't have bad. But people aren't allowed to follow their ideals, live freely, nor do they have their needs fulfilled. Hate to break it to you, but that sounds like the ticket for a revolt.")
                     else:
-                        print (placeholder)
+                        print ("'Don't move. There's a revolution on your back. Here, let me swat it before it revolts.' That would be your outside support talking, if you had any. Lucky for you, neither do the rebels, so you're probably okay for the time being. This is a solid 'civil unrest' if you were to ask.")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("Conditions aren't great for the people, but there's idealistic freedom. Also, they have support. Looks to be right between civil unrest and very close to revolution.")
                         else:
-                            print (placeholder)
+                            print ("There is without a doubt some civil unrest, but nothing you (and your support network) can't deal with in time. You're probably ok.")
                     else:
-                        print (placeholder)
+                        print ("There is without a doubt some civil unrest, but nothing you can't deal with in time. You're probably ok.)
         else:
             if r.econstatus():
                 if r.religionfree():
@@ -108,7 +108,7 @@ if r.oppose():
                         if r.supprecieve():
                             print (placeholder)
                         else:
-                            print (placeholder)
+                            print ("You're in a bit of a tight spot, assuming you're not Cuba, in which case you're totally screwed. Otherwise, due to the massive economic problems and your lack of care about the people, people are not very happy and bad things can and will happen when the pendulum swings back around. You may be able to keep things under control, however, since you do have the outside support. Stay safe, man. And watch out for anybody named Castro. ")
                     else:
                         print (placeholder)
             else:

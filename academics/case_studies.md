@@ -32,8 +32,6 @@ The format of these case studies will be rather minimal as mentioned before, and
 
 *Joe Salmon*
 
-
-
 The Fall of the Ming Dynasty (1644)
 
     Are the people free to follow their ideals?
@@ -75,11 +73,11 @@ The Cuban Revolution
 
     Are the people free to follow their ideals?
 
-
+        Yeah, everyone was pretty free to believe what they wanted.
 
     Does the government have totalitarian-esque control over the people?
 
-        Not really. Not only were the people free to do things, the emperor also did not control absolute power.
+        Not at all. People had a little too much freedom, and crime was very common.
 
     Is the government responding to the needs of a sufficient portion of the people?
 
@@ -104,9 +102,16 @@ The Cuban Revolution
         Well, yes. There was Fidel Castro and his brother Raul, who together started
         "The Movement" that led to the overthrow of Batista.
 
-*Luke Dunn*
+    The Cuban Revolution happened because of President Bautista's ruining of the Cuban
+    economy through letting American politics dominate it and his complete indifference
+    to the needs of the people, making him not so much a leader but a waste of political
+    space, and the Cuban people seemed to realize this. The Revolution was organized by
+    a man named Fidel Castro and his brother Raul, the former of which sat in power
+    until his recent death.
 
-The English Revolution
+Luke Dunn
+
+*The English Revolution*
 
     Are the people free to follow their ideals?
 
@@ -126,8 +131,36 @@ The English Revolution
 
     Can either party [either the rebels or the government] procure outside support?
 
-        Yes, (For this sake we will call parliament the rebels and the king the government) the rebels procure the support of Scotland.
+        Yes, (for this sake we will call Parliament the rebels and the king the government) the rebels procure the support of Scotland.
 
     Are there people actively opposing the power?
 
-        Yes, parliament opposed the crown which was the "power" at that time.
+        Yes, parliament opposed the Crown which was the power at that time.
+
+*The Haitian Revolution*
+
+    Are the people free to follow their ideals?
+
+        Kind of, I guess. They were slaves, and freedom and slavery don't necessarily go to well together. But, for the most part, they were allowed to believe in whatever they wanted, as long as it dindn't get in the way of working.
+
+    Does the government have totalitarian-esque control over the people?
+
+        Yes, this was a slave rebellion against the whites who owned them (for this this situation we will call the whites the government and the slaves the people)
+
+    Is the government responding to the needs of a sufficient portion of the people?
+
+        No, they were slaves, the whites did not care for their wellbeing.
+
+    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+
+        Yes, they were slaves of coarse the labor laws were unfair.
+
+    Can either party [either the rebels or the government] procure outside support?
+
+        Yes, the rebels procured the outside support of the Spanish.
+
+    Are there people actively opposing the power?
+
+        Well, yeah. I'm pretty sure the slaves (whos land was invaded and the people forced into slavery) didn't necessarily enjoy being slaves that much.
+
+    The Haitian revolution was a slave and Maroon (free people of color) rebellion. It was inspired by the French and American revolutions and after a brief delay was led by a man named Toussaint. The revolution was quick, for in only a few weeks the slaves had seized the capital, shortly after the French sent troops to try and quell the revolution. ut seeing an oppertunatie
