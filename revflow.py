@@ -67,11 +67,11 @@ if r.oppose():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("You might have totalitarian control, and the rebels might have a bit of support, and you might be heading towards a revolution if things get worse enough, but you're responding to the people's needs and that's not too bad. A solid 'civil unrest.')
                         else:
-                            print (placeholder)
+                            print ("Things are looking up, man! You've got someome backing you and you're responding to the needs of the people. However, they still lack a lot of freedom and wouldn't be opposed to more. About the definition of civil unrest.")
                     else:
-                        print (placeholder)
+                        print ("A revolution would totally be possible assuming the rebels get support, but not definite. It wouldn't be wise to worry too much. Just stay watchful. ")
 
                 else:
                     if r.outsidesupp():
