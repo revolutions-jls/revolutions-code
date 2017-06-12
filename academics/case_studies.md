@@ -28,7 +28,38 @@ The format of these case studies will be rather minimal as mentioned before, and
 
 *Sean Hong*
 
+French Revolution (1789 – 1799)
 
+    Are the people free to follow their ideals?
+
+        Technically no. At the time there were not many considerable problems with the lack of rights and power. However, the desire of having a better system to govern the country as well as the belief that the common people were entitled to that power and wealth, created a newfound demand for a new democratic system.
+
+    Does the government have totalitarian-esque control over the people?
+
+        While not totalitarian, the French monarchy, originally pertained to be divinely chosen by god, has lost its credibility and power over the commonwealth, as more of the lower class was better educated and were less compliant with the monarchy. Unable to adapt to the sudden change of favour with the people, the monarchy was overwhelmed by the social pressures it was given. Commoners that owned portions of land, having more power and money, wanted have political power as well as the full rights of a landowner.
+
+    Is the government responding to the needs of a sufficient portion of the people?
+
+        No. The French people had a problem with the population rise from the better living quality, there was not enough supplies to meet the new found demand. France became the most populous country in Europe. Crop failures during 1788, as well as many economic problems resulting a lot of tension and unrest within the people.
+
+    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+
+        Yes. The French having participated in the American Revolution, have driven the economy down to the ground. Having no money, the monarch taxed the higher class, the clergy and nobles of France. The upper class being traditionally exempt from taxes, the monarch used the new method of thinking from the Enlightenment, creating “enlightened despots” to justify their new taxing which outraged many.
+
+                “Enlightened despotism, also called benevolent despotism, a form of government in the 18th century in which absolute monarchs pursued legal, social, and educational reforms inspired by the Enlightenment.”
+
+    Can either party [either the rebels or the government] procure outside support?
+
+        There was no outside meddling for the French Revolution.
+
+    Are there people actively opposing the power?
+
+        Yes. As the insatisfaction of the people and their desire for more political power and replacing the monarchy, spurred on the French Revolution.
+
+The French Revolution was the one of the last remaining stands of the french feudal system and the monarchy. The new education created new ideals within all of the people, making a reason for insatisfaction with the monarchy. With the sudden change, the monarchy failed to meet the new ideals, and also failed to serve the growing populous with failing crops and horrible economy which was caused by the monarchy participating in wars, and spending the rest of the money, extravagantly for luxuries.
+
+
+Sources: https://www.britannica.com/event/French-Revolution/Aristocratic-revolt-1787-89
 
 *Joe Salmon*
 
