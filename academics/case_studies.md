@@ -149,3 +149,35 @@ The Haitian Revolution
     helped the rebels. Fearing all-out war the French sent an order that declared freedom for all slaves who joined the
     republic’s army. Not long after the French authorities on the island issued a general emancipation decree abolishing
     slavery.
+
+The Arab Spring
+
+    Are the people free to follow their ideals?
+        Yes and No, in some places people were able to choose their religion and in other they were not.
+
+    Does the government have totalitarian-esque control over the people?
+        Yes, all countries that participated in the Arab Spring had Authoritarian Leaders.
+
+    Is the government responding to the needs of a sufficient portion of the people?
+        No, a large portion of the people were unhappy with the ruling body.
+
+    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+        Yes, low wages and a failing economy is apparent
+
+    Can either party [either the rebels or the government] procure outside support?
+        No, No one Procured outside support. (except Bahrain, which got the support of Saudi Arabia and the UAE)
+
+    Are there people actively opposing the power?
+        Yes, there were many protests
+
+    The Arab spring was the result of high tensions in the middle east, these where caused by high unemployment and poverty
+    rates as well as corrupt authoritarian leaders who were not working in the best interest of their people. Protests started
+    in Tunisia after a street vendor named Muhammad Bouazizi lit himself on fire in front of the provincial headquarters after
+    an altercation with a policewoman. Protests quickly spread and resulted in the fall of many authoritarian leaders.
+
+
+
+
+
+
+	
