@@ -142,4 +142,10 @@ The Haitian Revolution
         Yes, previous attempts had been made, but they failed 
 
 
-    The Haitian revolution was a slave and Maroon (free people of color) rebellion. It was inspired by the French and       American revolutions and after a brief delay was led by a man named Toussaint. The revolution was quick, in only a few weeks they had seized the capital, shortly after the French sent troops to try and quell the revolution but seeing an opportunity the English also sent troops to try and seize the colony and shortly after so did the Spanish who armed and helped the rebels. Fearing all-out war the French sent an order that declared freedom for all slaves who joined the republic’s army. Not long after the French authorities on the island issued a general emancipation decree abolishing slavery.
+    The Haitian revolution was a slave and Maroon (free people of color) rebellion. It was inspired by the French and
+    American revolutions and after a brief delay was led by a man named Toussaint. The revolution was quick, in only a few
+    weeks they had seized the capital, shortly after the French sent troops to try and quell the revolution but seeing an
+    opportunity the English also sent troops to try and seize the colony and shortly after so did the Spanish who armed and
+    helped the rebels. Fearing all-out war the French sent an order that declared freedom for all slaves who joined the
+    republic’s army. Not long after the French authorities on the island issued a general emancipation decree abolishing
+    slavery.
