@@ -111,3 +111,35 @@ The Cuban Revolution
 
 
 *Luke Dunn*
+
+
+The Haitian Revolution
+
+    Are the people free to follow their ideals?
+    
+        Yes, as long as it didn't affect their work.
+
+    Does the government have totalitarian-esque control over the people?
+    
+        Yes, this was a slave rebellion against the whites who owned them (for this this situation we will
+        call the whites the government and the slaves the people)
+
+    Is the government responding to the needs of a sufficient portion of the people?
+    
+        No, they were slaves, the whites did not care for their wellbeing.
+
+    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor 
+    laws?
+
+        Yes, they were slaves of course the labor laws were unfair.
+
+    Can either party [either the rebels or the government] procure outside support?
+
+        Yes, the rebels procured the outside support of the Spanish
+
+    Are there people actively opposing the power?
+
+        Yes, previous attempts had been made, but they failed 
+
+
+    The Haitian revolution was a slave and Maroon (free people of color) rebellion. It was inspired by the French and       American revolutions and after a brief delay was led by a man named Toussaint. The revolution was quick, in only a few weeks they had seized the capital, shortly after the French sent troops to try and quell the revolution but seeing an opportunity the English also sent troops to try and seize the colony and shortly after so did the Spanish who armed and helped the rebels. Fearing all-out war the French sent an order that declared freedom for all slaves who joined the republic’s army. Not long after the French authorities on the island issued a general emancipation decree abolishing slavery.
