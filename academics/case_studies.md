@@ -56,6 +56,9 @@ French Revolution (1789 – 1799)
 
         Yes. As the insatisfaction of the people and their desire for more political power and replacing the monarchy, spurred on the French Revolution.
 
+The French Revolution was the one of the last remaining stands of the french feudal system and the monarchy. The new education created new ideals within all of the people, making a reason for insatisfaction with the monarchy. With the sudden change, the monarchy failed to meet the new ideals, and also failed to serve the growing populous with failing crops and horrible economy which was caused by the monarchy participating in wars, and spending the rest of the money, extravagantly for luxuries.
+
+
 Sources: https://www.britannica.com/event/French-Revolution/Aristocratic-revolt-1787-89
 
 *Joe Salmon*
