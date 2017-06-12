@@ -7,7 +7,7 @@ import time
 #   -joe
 placeholder = "[we don't serve your kind here]"
 #print (placeholder)
-intro = raw_input("intro? [y/n] : ")
+intro = input("intro? [y/n] : ")
 if intro == "y":
     print ("the")
     time.sleep(1.5)
@@ -61,13 +61,13 @@ if r.oppose():
                         else:
                             print ("There is without a doubt some civil unrest, but nothing you (and your support network) can't deal with in time. You're probably ok.")
                     else:
-                        print ("There is without a doubt some civil unrest, but nothing you can't deal with in time. You're probably ok.)
+                        print ("There is without a doubt some civil unrest, but nothing you can't deal with in time. You're probably ok.")
         else:
             if r.econstatus():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("You might have totalitarian control, and the rebels might have a bit of support, and you might be heading towards a revolution if things get worse enough, but you're responding to the people's needs and that's not too bad. A solid 'civil unrest.')
+                            print ("You might have totalitarian control, and the rebels might have a bit of support, and you might be heading towards a revolution if things get worse enough, but you're responding to the people's needs and that's not too bad. A solid 'civil unrest.'")
                         else:
                             print ("Things are looking up, man! You've got someome backing you and you're responding to the needs of the people. However, they still lack a lot of freedom and wouldn't be opposed to more. About the definition of civil unrest.")
                     else:
@@ -87,8 +87,8 @@ if r.oppose():
                         if r.supprecieve():
                             print ("Congratulations, you're probably fine for now. Unless you're the Ming Dynasty, in which the old goverment enlists the help of their mortal enemies to take out the rebel government. They end up getting screwed over and there it all goes.")
                         else:
-                            print ("You're done for. Bad economy, no care for the people and a significant number of people against you with outside support backing them."
-                    else:
+                            print ("You're done for. Bad economy, no care for the people and a significant number of people against you with outside support backing them.")
+                    else: #where everything dies
                         print ("I would be careful if I were you. The possibility for a massave revolt is very low, but that can change very quickly if the rebels get enough support.")
                 else:
                     print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
