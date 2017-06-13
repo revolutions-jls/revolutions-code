@@ -3,7 +3,7 @@
 #catastrophic?
 def religionfree():
     while True:
-        answer = raw_input("Are your people free to follow their ideals? [y/n] : ")
+        answer = input("Are your people free to follow their ideals? [y/n] : ")
         if answer == "y":
             return False
         elif answer == "n":
@@ -14,7 +14,7 @@ def religionfree():
 
 def govcontrol():
     while True:
-        answer = raw_input("Does the government have totalitarian-esque control over the people? [y/n] : ")
+        answer = input("Does the government have totalitarian-esque control over the people? [y/n] : ")
         if answer == "y":
             return True
         elif answer == "n":
@@ -25,7 +25,7 @@ def govcontrol():
 #tacobucks
 def needsrespond():
     while True:
-        answer = raw_input("Is the government responding to the needs of a sufficient portion of the people? [y/n] : ")
+        answer = input("Is the government responding to the needs of a sufficient portion of the people? [y/n] : ")
         if answer == "y":
             return False
         elif answer == "n":
@@ -36,7 +36,7 @@ def needsrespond():
 
 def econstatus():
     while True:
-        answer = raw_input("Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws? [y/n] : ")
+        answer = input("Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws? [y/n] : ")
         if answer == "y":
             return True
         elif answer == "n":
@@ -47,7 +47,7 @@ def econstatus():
 
 def outsidesupp():
     while True:
-        answer = raw_input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
+        answer = input("Can either party [either the rebels or the government] procure outside support? [y/n] : ")
         if answer == "y":
             return True
         elif answer == "n":
@@ -58,7 +58,7 @@ def outsidesupp():
 
 def supprecieve():
     while True:
-        answer = raw_input("Which party is receiving the support, the rebels or the government?  [r/g] : ")
+        answer = input("Which party is receiving the support, the rebels or the government?  [r/g] : ")
         if answer == "g":
             return True
         elif answer == "r":
@@ -69,7 +69,7 @@ def supprecieve():
 
 def oppose():
     while True:
-        answer = raw_input("Are there people who oppose the power? [y/n] : ")
+        answer = input("Are there people who oppose the power? [y/n] : ")
         if answer == "y":
             return True
         elif answer == "n":
