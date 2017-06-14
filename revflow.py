@@ -1,4 +1,5 @@
 #coded by j. salmon as walmart-givenchii
+#luke did none of this
 from dependencies import rev as r
 import time
 #update 5/29/17
