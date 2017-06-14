@@ -33,9 +33,9 @@ if r.oppose():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("Even though you may have been able to procure some amount of outside support, chances are it won't be enough. You've done pretty much everything wrong, and it would be very unlikely for a revolution to not occur.")
+                            print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already. https://youtu.be/agHTgzWDFyY?t=3m1s")
                         else:
-                            print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already.")
+                            print ("Even though you may have been able to procure some amount of outside support, chances are it won't be enough. You've done pretty much everything wrong, and it would be very unlikely for a revolution to not occur.")
                     else:
                         print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. Or if you're an Arabian country you're screwed anyways, the people are thirsty for change and you're in their way. ")
                 else:
@@ -79,9 +79,13 @@ if r.oppose():
                         if r.supprecieve():
                             print ("Roses are red / Castro's the best / You've got on your hands / some civil unrest.")#a mastahpeece
                         else:
+<<<<<<< HEAD
                             print ("")
+=======
+                            print ("Roses are red / Your life will be short / If you get left behind / by your outside support. Thank them now while you still can, cause they're what's preventing this situation from getting worse right now.")
+>>>>>>> cf39a16573c582b56f05f2f5b2777b89a6dc2f96
                     else:
-                        print ("c")
+                        print ("Noone's happy, but no one has the capability to do anything about it. Looks like civil unrest.")
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -92,7 +96,7 @@ if r.oppose():
                     else: #where everything dies
                         print ("I would be careful if I were you. The possibility for a massive revolt is very low, but that can change very quickly if the rebels get enough support.")
                 else:
-                    print ("e") #im making an ending here because if no one religionfrees the power, you're probably fine
+                    print ("Neither side has any support, but there's most likely animosity regardless, since you're not responding to people's needs. However, they can pray and stuff, so you might be ok.") #im making an ending here because if no one religionfrees the power, you're probably fine
     else:
         if r.needsrespond():
             if r.econstatus():
@@ -107,24 +111,24 @@ if r.oppose():
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("i")
+                            print ("The rebels have support, and they don't have idealistic freedom. You can do the math. However, if you're dumb enough to have gotten into this situation, maybe you actually can't. In that case, let me spell it out for you: R E V O L U T I O N !")
                         else:
                             print ("You're in a bit of a tight spot, assuming you're not Cuba, in which case you're totally screwed. Otherwise, due to the massive economic problems and your lack of care about the people, people are not very happy and bad things can and will happen when the pendulum swings back around. You may be able to keep things under control, however, since you do have the outside support. Stay safe, man. And watch out for anybody named Castro. ")
                     else:
-                        print ("j")
+                        print ("'Check!' Both sides said simultaneously. It was a stalemate. No one had the ability to move forwards, and doesn't that sound mighty familiar to you right now? It also sounds like civil unrest." )
             else:
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("k")
+                            print ("Guess what? The rebels have support, and by nature of being rebels, they hate you! Revolution!")
                         else:
-                            print ("l")
+                            print ("When the cat is away, the mice will play. But when the government has support, the revolution washes away.")
                     else:
                         print ("m")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("n")
+                            print ("Can you smell the flowers? PSYCH! Those aren't flowers, that's a revolution you're taking up the nose!")
                         else:
                             print ("Nothing much is likely to happen, you may control the religion of your contry but you've got friends and the rebels wont be able to do much about that.")
                     else:

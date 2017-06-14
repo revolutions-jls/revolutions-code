@@ -60,9 +60,9 @@ def supprecieve():
     while True:
         answer = input("Which party is receiving the support, the rebels or the government?  [r/g] : ")
         if answer == "g":
-            return True
-        elif answer == "r":
             return False
+        elif answer == "r":
+            return True
         else:
             print ("[i'm not sure what you meant by that]")
             continue
