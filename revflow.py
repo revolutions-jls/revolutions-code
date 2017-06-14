@@ -77,9 +77,9 @@ if r.oppose():
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("a")
+                            print ("Roses are red / Castro's the best / You've got on your hands / some civil unrest.")#a mastahpeece
                         else:
-                            print ("b")
+                            print ("")
                     else:
                         print ("c")
             else:
@@ -90,7 +90,7 @@ if r.oppose():
                         else:
                             print ("You're done for. Bad economy, no care for the people and a significant number of people against you with outside support backing them.")
                     else: #where everything dies
-                        print ("I would be careful if I were you. The possibility for a massave revolt is very low, but that can change very quickly if the rebels get enough support.")
+                        print ("I would be careful if I were you. The possibility for a massive revolt is very low, but that can change very quickly if the rebels get enough support.")
                 else:
                     print ("e") #im making an ending here because if no one religionfrees the power, you're probably fine
     else:
@@ -99,11 +99,11 @@ if r.oppose():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("f")
+                            print ("You might not have totalitarian control over the people, but you're not responding to their needs either and your economy's gone down the gutter. Not only are there rebels, they also  have support. It would be wise to watch for a revolution.")
                         else:
-                            print ("g")
+                            print ("You might not have totalitarian control over the people, but you're not responding to their needs either and your economy's gone down the gutter. But, you've got assistance in dealing with the rebels, so... you're probably fine for now.")
                     else:
-                        print ("h")
+                        print ("Noone's happy, but no one has the capability to do anything about it. Looks like civil unrest.")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
