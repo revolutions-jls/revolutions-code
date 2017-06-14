@@ -36,7 +36,7 @@ if r.oppose():
                         else:
                             print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already.")
                     else:
-                        print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. ")
+                        print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. Or if you're an Arabian country you're screwed anyways, the people are thirsty for change and you're in their way. ")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
@@ -44,7 +44,7 @@ if r.oppose():
                         else:
                             print ("You're in a tight spot. A really, really tight spot. In fact, the only thing keeping you from a revolution right now are whoever decided to lend your lucky self a hand. Be very, very careful and don't give anyone any more reasons than they already have to mess you up.")
                     else:
-                        print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. ")
+                        print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. Or if you're an Arabian country you're screwed anyways, the people are thirsty for change and you're in their way. ")
             else:
                 if r.religionfree():
                     if r.outsidesupp():
