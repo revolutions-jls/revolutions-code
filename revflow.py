@@ -162,6 +162,6 @@ if r.oppose():
                         else:
                             print ("1")
                     else:
-                        print ("2")
+                        print ("Nothing is wrong just some people oppose you.")
 else:
     print ("You're probably fine for now. If no one's trying to take you out, chances are it won't happen.")
