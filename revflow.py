@@ -33,9 +33,9 @@ if r.oppose():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already.")
-                        else:
                             print ("Even though you may have been able to procure some amount of outside support, chances are it won't be enough. You've done pretty much everything wrong, and it would be very unlikely for a revolution to not occur.")
+                        else:
+                            print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already.")
                     else:
                         print ("This is what we in the business like to call a 'volatile situation.' You are literally right on the edge of a revolution. The one thing that would mean your doom at this point would be outside support for the rebels. If that happens, say bye-bye. ")
                 else:
@@ -77,11 +77,11 @@ if r.oppose():
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("a")
                         else:
-                            print (placeholder)
+                            print ("b")
                     else:
-                        print (placeholder)
+                        print ("c")
             else:
                 if r.religionfree():
                     if r.outsidesupp():
@@ -92,77 +92,77 @@ if r.oppose():
                     else: #where everything dies
                         print ("I would be careful if I were you. The possibility for a massave revolt is very low, but that can change very quickly if the rebels get enough support.")
                 else:
-                    print (placeholder) #im making an ending here because if no one religionfrees the power, you're probably fine
+                    print ("e") #im making an ending here because if no one religionfrees the power, you're probably fine
     else:
         if r.needsrespond():
             if r.econstatus():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("f")
                         else:
-                            print (placeholder)
+                            print ("g")
                     else:
-                        print (placeholder)
+                        print ("h")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("i")
                         else:
                             print ("You're in a bit of a tight spot, assuming you're not Cuba, in which case you're totally screwed. Otherwise, due to the massive economic problems and your lack of care about the people, people are not very happy and bad things can and will happen when the pendulum swings back around. You may be able to keep things under control, however, since you do have the outside support. Stay safe, man. And watch out for anybody named Castro. ")
                     else:
-                        print (placeholder)
+                        print ("j")
             else:
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("k")
                         else:
-                            print (placeholder)
+                            print ("l")
                     else:
-                        print (placeholder)
+                        print ("m")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("n")
                         else:
-                            print (placeholder)
+                            print ("o")
                     else:
-                        print (placeholder)
+                        print ("p")
         else:
             if r.econstatus():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("q")
                         else:
-                            print (placeholder)
+                            print ("r")
                     else:
-                        print (placeholder)
+                        print ("s")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("t")
                         else:
-                            print (placeholder)
+                            print ("u")
                     else:
-                        print (placeholder)
+                        print ("v")
             else:
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("w")
                         else:
-                            print (placeholder)
+                            print ("x")
                     else:
-                        print (placeholder)
+                        print ("y")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print (placeholder)
+                            print ("z")
                         else:
-                            print (placeholder)
+                            print ("1")
                     else:
-                        print (placeholder)
+                        print ("2")
 else:
     print ("You're probably fine for now. If no one's trying to take you out, chances are it won't happen.")
