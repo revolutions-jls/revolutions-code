@@ -78,12 +78,10 @@ if r.oppose():
                     if r.outsidesupp():
                         if r.supprecieve():
                             print ("Roses are red / Castro's the best / You've got on your hands / some civil unrest.")#a mastahpeece
+
                         else:
-<<<<<<< HEAD
-                            print ("")
-=======
-                            print ("Roses are red / Your life will be short / If you get left behind / by your outside support. Thank them now while you still can, cause they're what's preventing this situation from getting worse right now.")
->>>>>>> cf39a16573c582b56f05f2f5b2777b89a6dc2f96
+                            print ("0")
+
                     else:
                         print ("Noone's happy, but no one has the capability to do anything about it. Looks like civil unrest.")
             else:
