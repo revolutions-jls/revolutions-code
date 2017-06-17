@@ -1,11 +1,9 @@
-# revolutions-code: 
+# revolutions-code:
 # All revolutions (political) have a set of conditions that must be met for them to occur.
 
 Hi.
 
-This is a a program made by a few teenagers to aid you in determining exactly how close or far you are to a Revolution. It works asking you a series of Yes or No questions, and takes input in the form of a Y or an N, corresponding to Yes or No respectively.
-
-However, the program WILL BREAK as of 4/19/17 if you tell it anything else. There is a way to fix that (quite easily, to be entirely honest) but it is extremely time consuming and this is more of a proof of concept right now than anything else.
+This is a program made by a few teenagers to aid you in determining exactly how close or far you are to a Revolution. It works asking you a series of Yes or No questions, and takes input in the form of a Y or an N, corresponding to Yes or No respectively.
 
 We hope you enjoy it.
 
@@ -17,3 +15,5 @@ thanks
 If you feel uncomfortable running our code or don't want to install the Python2.7 interpreter, we have the basic command-line version hosted on trinket.io here too: https://trinket.io/library/trinkets/44555ad1b3 although that get updated much less often and it is better to refer to the accompanying README present there on what the issues to avoid are and not this one.
 
 If you'd like to help, please visit the projects section and feel free to start coding!
+
+/written using atom and some caffeine/
