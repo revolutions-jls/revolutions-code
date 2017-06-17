@@ -1,11 +1,7 @@
-#coded by j. salmon as walmart-givenchii
-#luke did none of this
+#coded by j. salmon as walmart-givenchii and l. dunn as lkd-me on github
 from dependencies import rev as r
 import time
-#update 5/29/17
-#so i tested it and found a lot of bugs
-#serves me right i suppose?
-#   -joe
+
 placeholder = "[we don't serve your kind here]"
 #print (placeholder)
 intro = input("intro? [y/n] : ")
@@ -33,7 +29,7 @@ if r.oppose():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already. https://youtu.be/agHTgzWDFyY?t=3m1s")
+                            print ("Seven wrongs do NOT make a right, no matter what anyone tells you. You are the poster child for creating horrific political states. Just call it quits, dude. You're absolutely screwed. Get ready for a revolution or very possibly a civil war. In fact, it's rather suprising it hasn't happened already. https://youtu.be/agHTgzWDFyY?t=3m1s") # s e e y a
                         else:
                             print ("Even though you may have been able to procure some amount of outside support, chances are it won't be enough. You've done pretty much everything wrong, and it would be very unlikely for a revolution to not occur.")
                     else:
@@ -77,10 +73,9 @@ if r.oppose():
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("Roses are red / Castro's the best / You've got on your hands / some civil unrest.")#a mastahpeece
-
+                            print ("You are likely to be overthrown; the people are angry, your economy is failing and another country wants you gone. And this is just their excuse to make that happen.")
                         else:
-                            print ("0")
+                            print ("Roses are red / Castro's the best / You've got on your hands / some civil unrest. But you might be okay / you might make it through / cause you've got another country / right behind you.")#inb4 pulitzer
 
                     else:
                         print ("Noone's happy, but no one has the capability to do anything about it. Looks like civil unrest.")
@@ -128,7 +123,7 @@ if r.oppose():
                         if r.supprecieve():
                             print ("Can you smell the flowers? PSYCH! Those aren't flowers, that's a revolution you're taking up the nose!")
                         else:
-                            print ("Nothing much is likely to happen, you may control the religion of your contry but you've got friends and the rebels wont be able to do much about that.")
+                            print ("Nothing much is likely to happen, you may control the religion of your contry but you've got friends, and chances are the rebels wont be able to do much about that.")
                     else:
                         print ("Nothing is wrong just some people oppose you.")
         else:
@@ -136,17 +131,17 @@ if r.oppose():
                 if r.religionfree():
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("You are likley to be overthrown; the people are angry, your economy is failing and another country wants you gone to and this is just the excuse to make that happen ")
-                        else:
-                            print ("r")
+                            print ("You are likely to be overthrown; the people are angry, your economy is failing and another country wants you gone, and this is just their excuse to make that happen.")
+                        else: #all the answers from here down were supposed to be done by Sean Hong, but he hasn't done them yet and is possibly avoiding my texts :D ~ so they're done by Joe S. instead
+                            print ("Nothing much is likely to happen, you may control the religion of your contry but you've got friends, and chances are the rebels wont be able to do much about that.")
                     else:
                         print ("s")
                 else:
                     if r.outsidesupp():
                         if r.supprecieve():
-                            print ("t")
+                            print ("No matter the conditions / in this war of attrition / when the rebels have support / it's DOWN WITH YOUR COURT!")
                         else:
-                            print ("u")
+                            print ("Nothing much is likely to happen, you may have horrible labour laws, but you've also got friends, and chances are the rebels wont be able to do much about that.")
                     else:
                         print ("v")
             else:
@@ -164,7 +159,7 @@ if r.oppose():
                             print ("z")
                         else:
                             print ("1")
-                    else:
+                    else: #i a
                         print ("Nothing is wrong just some people oppose you.")
 else:
     print ("You're probably fine for now. If no one's trying to take you out, chances are it won't happen.")
