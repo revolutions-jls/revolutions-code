@@ -3,17 +3,15 @@
 
 Hi.
 
-This is a program made by a few teenagers to aid you in determining exactly how close or far you are to a Revolution. It works asking you a series of Yes or No questions, and takes input in the form of a Y or an N, corresponding to Yes or No respectively.
+We're a few teenagers from Vancouver with a mild interest in politics and programming, and we decided to combine those two things over three terms of hard work and stress to bring you something that ~~may or may not work~~[errata: we know it *works*, but we're not entirely sure of its accuracy].
+What we've made is a python3 program that asks you questions. In order to not confuse the program and get an accurate prediction, it is recommended to answer truthfully. And what does this program do with the hopefully truthful answers?
 
-We hope you enjoy it.
+It returns a short sentence on the state of the country according to the answers of the questions. More specifically, how close or far you are to a revolution. However, most of the answers lean towards revolution, it's generally better to be safe than sorry. Also, it was made by a few teenagers, so take everything it says with a grain of salt.
 
-Also, if you encounter a bug or something that seems out of place and you want to help this idea grow, the best thing to do is just to let us know. We would love to make it better.
+For anyone who wants an answer to the looming question, *"Do you actually have academic proof that this works?"* the answer is yes. It's located in a long Markdown file just like this one inside the academics folder. It's called case_studies.md, and the name essentially explains it. It's a large blob of concise case studies for the validation of our endeavours and your reading displeasure.
 
-thanks
-~ a few teenagers from Vancouver
+# Enjoy.
 
-If you feel uncomfortable running our code or don't want to install the Python2.7 interpreter, we have the basic command-line version hosted on trinket.io here too: https://trinket.io/library/trinkets/44555ad1b3 although that get updated much less often and it is better to refer to the accompanying README present there on what the issues to avoid are and not this one.
+*If you want to run our code, ~~which you should,~~ and 1) do not have the python language installed, ii) do not know how or do not want to install python, ~~or c) feel uncomfortable about all the keyloggers we've included~~ then we have it hosted in one bloated mass of text on this fantastic site called trinket.io, which lets you host code for free online that can be run inside any browser (even mobile!) then you should click [here.](https://www.google.com "revolutions-code on Trinket")
 
-If you'd like to help, please visit the projects section and feel free to start coding!
-
-/written using atom and some caffeine/
+/written with python3 and pressure/

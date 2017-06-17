@@ -1,4 +1,6 @@
-#coded by j. salmon as walmart-givenchii and l. dunn as lkd-me on github
+#coded by j. salmon as walmart-givenchii and revolutions-jls
+#most academic research and a small amount of the responses by l. dunn as lkd-me
+#s. hong as derpypork did a small part of the academic research and nothing else this term.
 from dependencies import rev as r
 import time
 
