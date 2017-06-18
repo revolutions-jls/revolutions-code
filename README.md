@@ -20,5 +20,7 @@ Enjoy.
 
 Credits
 Sean Hong - Early conception, implementation, and small portion of academics.
+
 Luke Dunn - Nearly all the academic research we used for this project in academics/case_studies.md.
+
 Joe Salmon (moi) - Final implementation (coding, and most of the responses in the code), this beautiful text file, and covering for Sean when he was too busy playing Borderlands.
