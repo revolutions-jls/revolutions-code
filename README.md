@@ -10,10 +10,15 @@ It returns a short sentence on the state of the country according to the answers
 
 For anyone who wants an answer to the looming question, *"Do you actually have academic proof that this works?"* the answer is yes. It's located in a long Markdown file just like this one inside the academics folder. It's called case_studies.md, and the name essentially explains it. It's a large blob of concise case studies for the validation of our endeavours and your reading displeasure.
 
-# Enjoy.
+Enjoy.
 
 *If you want to run our code, ~~which you should,~~ and 1) do not have the python language installed, ii) do not know how or do not want to install python, ~~or c) feel uncomfortable about all the keyloggers we've included~~ then we have it hosted in one bloated mass of text on this fantastic site called trinket.io, which lets you host code for free online that can be run inside any browser (even mobile!) then you should click [here.](https://trinket.io/library/trinkets/8c0a784181 "revolutions-code on Trinket")*
 
 # Thank you.
 
 /written with python3 and pressure/
+
+Credits
+Sean Hong - Early conception, implementation, and small portion of academics.
+Luke Dunn - Nearly all the academic research we used for this project in academics/case_studies.md.
+Joe Salmon (moi) - Final implementation (coding, and most of the responses in the code), this beautiful text file, and covering for Sean when he was too busy playing Borderlands.
