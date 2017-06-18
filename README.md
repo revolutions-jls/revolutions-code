@@ -19,6 +19,7 @@ Enjoy.
 /written with python3 and pressure/
 
 Credits
+
 Sean Hong - Early conception, implementation, and small portion of academics.
 
 Luke Dunn - Nearly all the academic research we used for this project in academics/case_studies.md.
