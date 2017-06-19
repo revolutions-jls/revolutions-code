@@ -114,7 +114,6 @@ The Cuban Revolution
     Does the government have totalitarian-esque control over the people?
 
         Not at all. People had a little too much freedom, and crime was very common.
->>>>>>> functions
 
     Is the government responding to the needs of a sufficient portion of the people?
 
