@@ -254,3 +254,23 @@ Luke Dunn
         Well, yeah. I'm pretty sure the slaves (whos land was invaded and the people forced into slavery) didn't necessarily enjoy being slaves that much.
 
     The Haitian revolution was a slave and Maroon (free people of color) rebellion. It was inspired by the French and American revolutions and after a brief delay was led by a man named Toussaint. The revolution was quick, in only a few weeks they had seized the capital, shortly after the French sent troops to try and quell the revolution but seeing an opportunity the English also sent troops to try and seize the colony and shortly after so did the Spanish who armed and helped the rebels. Fearing all-out war the French sent an order that declared freedom for all slaves who joined the republic’s army. Not long after the French authorities on the island issued a general emancipation decree abolishing slavery.
+
+*The American Revolution*
+    
+    Are the people free to follow their ideals?
+        Yes, the people were free to choose their religion.
+ 
+    Does the government have totalitarian-esque control over the people?
+        No, for the most part people were free to do as they pleased.
+ 
+    Is the government responding to the needs of a sufficient portion of the people?
+        No, the majority of the people were unhappy with the government.
+ 
+    Is the economy failing or on a very apparent downturn? Are there high taxes or unfair labor laws?
+        No, the economy is doing pretty well.
+ 
+    Can either party [either the rebels or the government] procure outside support?
+        No, neither party procures outside support.
+
+    Are there people actively opposing the power?
+        Yes, the people were angry at the government, they paid taxes but were not represented in parliament.
