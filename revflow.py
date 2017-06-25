@@ -149,7 +149,7 @@ if r.oppose():
             else:
                 if r.religionfree():
                     if r.outsidesupp():
-                        if r.supprecieve():s
+                        if r.supprecieve():
                             print ("No matter the conditions / in this war of attrition / when the rebels have support / it's DOWN WITH YOUR COURT!")
                         else:
                             print ("You know what? You're in the clear here. You've got friends, power, and powerful friends. May your reign be long.")
